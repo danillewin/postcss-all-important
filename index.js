@@ -1,7 +1,7 @@
 'use strict'
 var postcss = require('postcss');
 
-module.exports = postcss.plugin('postcss-important', important);
+module.exports = postcss.plugin('postcss-all-important', important);
 
 function important() {
 
