@@ -1,0 +1,20 @@
+{
+  "name": "postcss-all-important",
+  "version": "0.1.0",
+  "description": "PostCSS plugin for annotations based `!important`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danillewin/postcss-all-important/git"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugins"
+  ],
+  "author": "danillewin",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^5.0.5",
+  }
+}
